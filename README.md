@@ -350,9 +350,3 @@
 -   **Chromium** - Open-source webbrowserproject.
 
 *Onder voorbehoud van mogelijk vergeten applicaties danwel applicaties die op termijn ook nodig geacht worden*
-
--   Safari - Webbrowser ontwikkeld door Apple.
--   Vivaldi - Webbrowser ontwikkeld door Vivaldi Technologies.
--   Chromium - Open-source webbrowserproject.
-
-*Onder voorbehoud van mogelijk vergeten applicaties danwel applicaties die op termijn ook nodig geacht worden*
