@@ -53,6 +53,7 @@
   * Microsoft Visual C++ Redistributable
   * Neovim
   * Notepad++
+  * Powerautomate
   * PowerShell
   * PowerToys
   * PyCharm
@@ -74,23 +75,30 @@
 
 **Hardware Specifieke Applicaties:**
   * Canon MG3000 series MP drivers (t.b.v. printen vanuit huis mocht dat nodig zijn)
+  * Dell Digital Delivery
+  * Dell SupportAssist
   * eNSP (Huawei)
   * FlexOptics app
+  * HWiNFO
+  * HWMonitor
   * ICS Lite (Huawei Download tool)
   * Sanhealth (Broadcom)
   * SmartKit (Huawei tooling t.b.v. servers & storage)
   
 **Netwerk / Netwerkbeveiliging:**
   * Advanced IP Scanner
+  * Angry IP Scanner
   * Bitcricket IP calculator
   * Bitwarden
   * FortiClient (FortiVPN)
   * inSSIDer
   * Ivanti VPN client
   * KeePass
+  * KeePassX
   * KeyStore Explorer
   * Nmap
   * OpenVPN
+  * Parsec
   * PingInfoView
   * WireGuard
   * Wireshark (bevat ook winpcap & npcap)
@@ -121,11 +129,14 @@
   * Java Runtime (meerdere versies, inclusief Java 8)
   * NAPS Newsflow (RSS reader)
   * OBS studio
+  * OrcaSlicer
   * Postman (For API testing)
   * Rufus
   * Sysinternal Suite
+  * Ventoy
   * VLC Media player
   * Vital Source Bookshelf
+  * Wazuh Agent
 
 **Scherm Afbeeldingen:**
   * Greenshot
