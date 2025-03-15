@@ -18,6 +18,7 @@
   * Microsoft Teams
   * Signal
   * Slack
+  * Telegram
   * Timewax
   * VMware Horizon
   * Webex
