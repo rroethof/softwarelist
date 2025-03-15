@@ -2,7 +2,7 @@
 
 ## Archivering:
 
--   7-Zip - Open-source programma voor het archiveren van bestanden met een hoge compressieratio.
+-   **7-Zip** - Open-source programma voor het archiveren van bestanden met een hoge compressieratio.
 -   WinRAR - Proefversie programma voor het archiveren van bestanden voor Windows.
 
 ## Backup Software:
